@@ -1,7 +1,6 @@
 ## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
 
 ### I am Shreyash Salunke
-<img src="https://komarev.com/ghpvc/?username=Shreyash017&style=flat-square&color=blue" alt=""/>
 
 I’m a third year engineering student who is passionate about learning latest technologies in the industry.
   - Pronouns: he/him
@@ -9,7 +8,7 @@ I’m a third year engineering student who is passionate about learning latest t
   - I’m currently pursuing my specialization degree in *Artificial Intelligence and Machine Learning* at Thakur College of Engineering & Technology
   - I’m currently Leaning Machine Learning and DSA.
   - I’m looking for a Software Engineering internships.
-
+<img src="https://komarev.com/ghpvc/?username=Shreyash017&style=flat-square&color=blue" alt=""/>
 
 ---
 
