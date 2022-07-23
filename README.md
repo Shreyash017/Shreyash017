@@ -3,7 +3,7 @@
 ### I am Shreyash Salunke
 
 I’m a third year engineering student who is passionate about learning latest technologies in the industry.
-  - Pronouns: he/him
+  - Pronouns: He
   - Machine Learning Enthusiast
   - I’m currently pursuing my specialization degree in *Artificial Intelligence and Machine Learning* at Thakur College of Engineering & Technology
   - I’m currently Leaning Machine Learning and DSA.
