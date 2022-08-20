@@ -47,11 +47,10 @@ I’m a third year engineering student who is passionate about learning latest t
 ---
   
 ###  :chart_with_upwards_trend:My Github Stats:
-  
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Shreyash017&theme=dark&date_format=j%20M%5B%20Y%5D)
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Shreyash017&theme=dark&date_format=j%20M%5B%20Y%5D&align=center)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyash017&theme=dark&background=000000&layout=compact&card_width=445)
 <br>
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shreyash017&show_icons=true&count_private=true&hide_title=true&theme=dark&background=000000&height="100")
-  
+
 
   
