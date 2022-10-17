@@ -8,7 +8,7 @@ I’m a third year engineering student who is passionate about learning latest t
   - :smile:Pronouns: He/him
   - :zap:Machine Learning Enthusiast.
   - :orange_book:I’m currently pursuing my specialization degree in *Artificial Intelligence and Machine Learning* at Thakur College of Engineering & Technology.
-  - :telescope:I’m currently Leaning Machine Learning and DSA.
+  - :telescope:I’m currently Learning Machine Learning and DSA.
   - :mag:I’m looking for a Software Engineering internships.
   - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Shreyash-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shreyash-salunke/)
 <img src="https://komarev.com/ghpvc/?username=Shreyash017&style=flat-square&color=blue" alt="Views"/>
