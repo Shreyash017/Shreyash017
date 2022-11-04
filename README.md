@@ -42,8 +42,7 @@ I’m a third year engineering student who is passionate about learning latest t
     <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>
   </a>&nbsp;
  </div>
-  
-  
+    
 ---
   
 ###  :chart_with_upwards_trend:My Github Stats:
@@ -52,5 +51,8 @@ I’m a third year engineering student who is passionate about learning latest t
 <br>
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shreyash017&show_icons=true&include_all_commits=true&count_private=true&hide_title=true&theme=dark&background=000000&height="100")
 
+---
 
+### Badges:
+[![Holopin Board](https://holopin.io/api/user/board?user=shreyash017)](https://www.holopin.io/@shreyash017)
   
