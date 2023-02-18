@@ -27,11 +27,23 @@ I’m a third year engineering student who is passionate about learning latest t
   <a href="https://devdocs.io/c/">
     <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>
   </a>&nbsp;
+  <a href="https://www.djangoproject.com/">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django" alt="Django" width="40" height="40"/>
+  </a>&nbsp;
+  <a href="https://flask.palletsprojects.com/en/2.2.x/">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" title="Flask" alt="Flask" width="40" height="40"/>
+  </a>&nbsp;
   <a href="https://devdocs.io/html/">
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="40" height="40"/>
   </a>&nbsp;
+  <a href="https://devdocs.io/css/">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="40" height="40"/>
+  </a>&nbsp;
   <a href="https://dev.mysql.com/">
     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>
+  </a>&nbsp;
+  <a href="https://www.mongodb.com/">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>
   </a>&nbsp;
   <a href="https://git-scm.com/">
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/></a>&nbsp;
