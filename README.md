@@ -7,8 +7,8 @@
 I’m a third year engineering student who is passionate about learning latest technologies in the industry.
   - :smile:Pronouns: He/him
   - :zap:Machine Learning & Backend Developer.
-  - :orange_book:I’m currently pursuing my specialization degree in *Artificial Intelligence and Machine Learning* at Thakur College of Engineering & Technology.
-  - :telescope:I’m currently learning about Full Stack Development.
+  - :orange_book:I’m a pre-final year student, specializing in *Artificial Intelligence and Machine Learning* at Thakur College of Engineering & Technology.
+  - :telescope:Learning about Full Stack Development.
   - :mag:Looking for a Software Engineering Internships.
   - :mailbox:Connect with me on: [![Linkedin Badge](https://img.shields.io/badge/-Shreyash-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shreyash-salunke/)
 <img src="https://komarev.com/ghpvc/?username=Shreyash017&style=flat-square&color=blue" alt="Views"/>
