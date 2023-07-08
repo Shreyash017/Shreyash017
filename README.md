@@ -4,7 +4,7 @@
 
 <img align="right" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e471x2899uxjoreewtvcjaj268n709ixhee8uxitz2l&rid=giphy.gif&ct=g" width="300px" height="250px" alt="Hello Coding">
 
-I’m a third year engineering student who is passionate about learning latest technologies in the industry.
+I’m a final year engineering student who is passionate about learning latest technologies in the industry.
   - :smile:Pronouns: He/him
   - :zap:Machine Learning & Backend Developer.
   - :orange_book:I’m currently pursuing a specialization degree in Artificial Intelligence and Machine Learning at Thakur College of Engineering & Technology.
@@ -18,39 +18,39 @@ I’m a third year engineering student who is passionate about learning latest t
 ### Skills:
 
 <div>
-  <a href="https://www.python.org/">
+  <a href="https://www.python.org/" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>
   </a>&nbsp;
-  <a href="https://devdocs.io/cpp/">
+  <a href="https://devdocs.io/cpp/" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>
   </a>&nbsp;
-  <a href="https://devdocs.io/c/">
+  <a href="https://devdocs.io/c/" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>
   </a>&nbsp;
-  <a href="https://www.djangoproject.com/">
+  <a href="https://www.djangoproject.com/" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django" alt="Django" width="40" height="40"/>
   </a>&nbsp;
-  <a href="https://flask.palletsprojects.com/en/2.2.x/">
+  <a href="https://flask.palletsprojects.com/en/2.2.x/" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" title="Flask" alt="Flask" width="40" height="40"/>
   </a>&nbsp;
-  <a href="https://devdocs.io/html/">
+  <a href="https://devdocs.io/html/" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="40" height="40"/>
   </a>&nbsp;
-  <a href="https://devdocs.io/css/">
+  <a href="https://devdocs.io/css/" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="40" height="40"/>
   </a>&nbsp;
-  <a href="https://dev.mysql.com/">
+  <a href="https://dev.mysql.com/" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>
   </a>&nbsp;
-  <a href="https://www.mongodb.com/">
+  <a href="https://www.mongodb.com/" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>
   </a>&nbsp;
-  <a href="https://git-scm.com/">
+  <a href="https://git-scm.com/" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/></a>&nbsp;
-  <a href="https://www.linux.org/">
+  <a href="https://www.linux.org/" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>
   </a>&nbsp;
-  <a href="https://jupyter.org/">
+  <a href="https://jupyter.org/" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>
   </a>&nbsp;
  </div>
