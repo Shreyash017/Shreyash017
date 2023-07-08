@@ -4,12 +4,12 @@
 
 <img align="right" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e471x2899uxjoreewtvcjaj268n709ixhee8uxitz2l&rid=giphy.gif&ct=g" width="300px" height="250px" alt="Hello Coding">
 
-I’m a final year engineering student who is passionate about learning latest technologies in the industry.
+I’m a Meta Certified Backend Developer and a final-year engineering student who is passionate about learning the latest technologies in the industry.
   - :smile:Pronouns: He/him
   - :zap:Machine Learning & Backend Developer.
   - :orange_book:I’m currently pursuing a specialization degree in Artificial Intelligence and Machine Learning at Thakur College of Engineering & Technology.
   - :telescope:Learning about Full Stack Development.
-  - :mag:Looking for a Software Engineering Internships.
+  - :mag:Looking for a Software Engineering Internship.
   - :mailbox:Connect with me on: [![Linkedin Badge](https://img.shields.io/badge/-Shreyash-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shreyash-salunke/)
 <img src="https://komarev.com/ghpvc/?username=Shreyash017&style=flat-square&color=blue" alt="Views"/>
 
