@@ -27,6 +27,9 @@ I’m a Meta Certified Backend Developer and a final-year engineering student wh
   <a href="https://devdocs.io/c/" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>
   </a>&nbsp;
+  <a href="https://www.java.com/en/" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>
+  </a>&nbsp;
   <a href="https://www.djangoproject.com/" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django" alt="Django" width="40" height="40"/>
   </a>&nbsp;
