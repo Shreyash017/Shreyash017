@@ -4,13 +4,13 @@
 
 <img align="right" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e471x2899uxjoreewtvcjaj268n709ixhee8uxitz2l&rid=giphy.gif&ct=g" width="300px" height="250px" alt="Hello Coding">
 
-I’m a Meta Certified Backend Developer and a final-year engineering student who is passionate about learning the latest technologies in the industry.
-  - :smile:Pronouns: He/him
-  - :zap:Machine Learning & Backend Developer.
-  - :orange_book:I’m currently pursuing a specialization degree in Artificial Intelligence and Machine Learning at Thakur College of Engineering & Technology.
-  - :telescope:Learning about Full Stack Development.
-  - :mag:Looking for a Software Engineering Internship.
-  - :mailbox:Connect with me on: [![Linkedin Badge](https://img.shields.io/badge/-Shreyash-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shreyash-salunke/)
+I’m a Meta Certified Backend Developer and an Engineering Graduate, passionate about developing innovative solutions and solving problems.
+  - :smile: Pronouns: He/him
+  - :zap: Machine Learning & Backend Developer.
+  - :orange_book: Graduated with a specialization degree in Artificial Intelligence and Machine Learning from Thakur College of Engineering & Technology.
+  - :telescope: Learning about Full Stack Development.
+  - :mag: Looking for a Software Engineering Roles.
+  - :mailbox: Connect with me on: [![Linkedin Badge](https://img.shields.io/badge/-Shreyash-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shreyash-salunke/)
 <img src="https://komarev.com/ghpvc/?username=Shreyash017&style=flat-square&color=blue" alt="Views"/>
 
 ---
@@ -61,11 +61,18 @@ I’m a Meta Certified Backend Developer and a final-year engineering student wh
 ---
   
 ###  :chart_with_upwards_trend:My Github Stats:
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Shreyash017&theme=dark&date_format=j%20M%5B%20Y%5D&align=center)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyash017&theme=dark&background=000000&layout=compact&card_width=445)
+
+<!-- ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Shreyash017&theme=dark&date_format=j%20M%5B%20Y%5D&align=center) -->
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyash017&theme=dark&background=000000&layout=compact&card_width=445&hide=jupyter%20notebook) -->
+
+<span>
+  <img height=200 align="center" src="http://github-readme-streak-stats.herokuapp.com?user=Shreyash017&theme=dark&date_format=j%20M%5B%20Y%5D&align=center"/>
+</span>
+<span>
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyash017&theme=dark&background=000000&layout=compact&card_width=410&hide=jupyter%20notebook" />
+</span>
 
 ---
 
 ### Badges:
 [![Holopin Board](https://holopin.io/api/user/board?user=shreyash017)](https://www.holopin.io/@shreyash017)
-  
