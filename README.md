@@ -69,7 +69,7 @@ I’m a Meta Certified Backend Developer and an Engineering Graduate, passionate
   <img height=200 align="center" src="http://github-readme-streak-stats.herokuapp.com?user=Shreyash017&theme=dark&date_format=j%20M%5B%20Y%5D&align=center"/>
 </span>
 <span>
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyash017&theme=dark&background=000000&layout=compact&card_width=410&hide=jupyter%20notebook" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyash017&theme=dark&background=000000&layout=compact&hide=jupyter%20notebook" />
 </span>
 
 ---
